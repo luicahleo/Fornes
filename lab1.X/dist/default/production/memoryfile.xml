@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\lab1.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131064</length>
+      <used>4880</used>
+      <free>126184</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3760</length>
+      <used>306</used>
+      <free>3454</free>
+    </memory>
+  </executable>
+</project>
